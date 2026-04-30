@@ -2,7 +2,30 @@
   "name": "best-of-algorithmic-trading",
   "private": true,
   "type": "module",
-  "description": "Curated best-of list; TypeScript tooling validates projects.yaml",
+  "description": "Ranked curated list: algorithmic trading bots, quant finance libraries, TA indicators, backtesting, crypto APIs — Freqtrade, Hummingbot, Python, Node, TypeScript validation for projects.yaml",
+  "keywords": [
+    "algorithmic-trading",
+    "trading-bot",
+    "quantitative-finance",
+    "freqtrade",
+    "hummingbot",
+    "cryptocurrency",
+    "backtesting",
+    "technical-analysis",
+    "open-source",
+    "fintech",
+    "python",
+    "typescript",
+    "best-of-list"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/PolyPulse-Analytics/best-of-algorithmic-trading.git"
+  },
+  "homepage": "https://github.com/PolyPulse-Analytics/best-of-algorithmic-trading#readme",
+  "bugs": {
+    "url": "https://github.com/PolyPulse-Analytics/best-of-algorithmic-trading/issues"
+  },
   "engines": {
     "node": ">=20"
   },
@@ -14,7 +37,6 @@
   "devDependencies": {
     "@types/node": "^22.10.0",
     "tsx": "^4.19.2",
-    "ioredis-om": "^5.10.2", 
     "typescript": "^5.7.2",
     "yaml": "^2.6.1",
     "zod": "^3.24.1"

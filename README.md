@@ -12,7 +12,7 @@
     <a href="https://best-of.org" title="Best-of Badge"><img src="http://bit.ly/3o3EHNN"></a>
     <a href="#contents" title="Project count"><img src="https://img.shields.io/badge/projects-109-blue.svg?color=5ac4bf"></a>
     <a href="#contribution" title="Contributions welcome"><img src="https://img.shields.io/badge/contributions-welcome-green.svg"></a>
-    <a href="https://github.com/merovinh/best-of-algorithmic-trading/releases" title="Last update"><img src="https://img.shields.io/github/release-date/merovinh/best-of-algorithmic-trading?color=green&label=updated"></a>
+    <a href="https://github.com/PolyPulse-Analytics/best-of-algorithmic-trading/releases" title="Last update"><img src="https://img.shields.io/github/release-date/PolyPulse-Analytics/best-of-algorithmic-trading?color=green&label=updated"></a>
 </p>
 
 [![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://stand-with-ukraine.pp.ua/)
@@ -21,7 +21,7 @@
 
 **How to use this list:** Browse by category below, follow the links to projects you care about, and always verify licenses and activity before depending on something in production.
 
-**Want to suggest a project?** Open an [issue](https://github.com/merovinh/best-of-algorithmic-trading/issues/new/choose), send a [pull request](https://github.com/merovinh/best-of-algorithmic-trading/pulls), or edit [`projects.yaml`](https://github.com/merovinh/best-of-algorithmic-trading/edit/main/projects.yaml) directly. Contributions are welcome.
+**Want to suggest a project?** Open an [issue](https://github.com/PolyPulse-Analytics/best-of-algorithmic-trading/issues/new/choose), send a [pull request](https://github.com/PolyPulse-Analytics/best-of-algorithmic-trading/pulls), or edit [`projects.yaml`](https://github.com/PolyPulse-Analytics/best-of-algorithmic-trading/edit/main/projects.yaml) directly. Contributions are welcome.
 
 > Discover more [best-of lists](https://best-of.org) or [create your own](https://github.com/best-of-lists/best-of/blob/main/create-best-of-list.md).
 
@@ -440,10 +440,10 @@
 
 Contributions are encouraged. You can:
 
-- Use the [issue templates](https://github.com/merovinh/best-of-algorithmic-trading/issues/new/choose) to propose additions or corrections.
-- Edit [`projects.yaml`](https://github.com/merovinh/best-of-algorithmic-trading/blob/main/projects.yaml) and open a pull request (or use the [GitHub web editor](https://github.com/merovinh/best-of-algorithmic-trading/edit/main/projects.yaml)).
+- Use the [issue templates](https://github.com/PolyPulse-Analytics/best-of-algorithmic-trading/issues/new/choose) to propose additions or corrections.
+- Edit [`projects.yaml`](https://github.com/PolyPulse-Analytics/best-of-algorithmic-trading/blob/main/projects.yaml) and open a pull request (or use the [GitHub web editor](https://github.com/PolyPulse-Analytics/best-of-algorithmic-trading/edit/main/projects.yaml)).
 
-Metadata and markdown generation use the [best-of-generator](https://github.com/best-of-lists/best-of-generator) family of tools. Guidelines: [CONTRIBUTING.md](https://github.com/merovinh/best-of-algorithmic-trading/blob/main/CONTRIBUTING.md) and [Code of Conduct](https://github.com/merovinh/best-of-algorithmic-trading/blob/main/.github/CODE_OF_CONDUCT.md).
+Metadata and markdown generation use the [best-of-generator](https://github.com/best-of-lists/best-of-generator) family of tools. Guidelines: [CONTRIBUTING.md](https://github.com/PolyPulse-Analytics/best-of-algorithmic-trading/blob/main/CONTRIBUTING.md) and [Code of Conduct](https://github.com/PolyPulse-Analytics/best-of-algorithmic-trading/blob/main/.github/CODE_OF_CONDUCT.md).
 
 ### For maintainers (TypeScript checks)
 
