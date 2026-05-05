@@ -1,8 +1,8 @@
 # Run from repo root if you wish: .\scripts\create-polypulse-org-repos.ps1
-# Prompts for a GitHub PAT with permission to CREATE repositories under PolyPulse-Analytics.
+# Prompts for a GitHub PAT with permission to CREATE repositories under TitanFlow-Systems (change `$Org` for other orgs).
 
 param(
-    [string]$Org = "PolyPulse-Analytics",
+    [string]$Org = "TitanFlow-Systems",
     [SecureString]$GitHubToken = $(Read-Host -AsSecureString -Prompt "GitHub PAT (hidden)")
 )
 
@@ -39,18 +39,16 @@ $repos = @(
             "algorithmic-trading","trading-bot","quantitative-finance","cryptocurrency",
             "freqtrade","hummingbot","backtesting","technical-analysis","python","typescript",
             "nodejs","crypto-trading","open-source","fintech","algo-trading","best-of-list",
-            "bitcoin","ethereum","education","machine-learning"
+            "bitcoin","ethereum","machine-learning","defi"
         )
     },
     @{
-        Name        = "polymarket-trade-engine"
-        Description = "Polymarket prediction markets TypeScript engine: BTC ETH SOL XRP DOGE binary CLOB strategy harness APIs quant crypto forecasting conditional tokens"
-        Homepage    = "https://github.com/$Org/polymarket-trade-engine#readme"
+        Name        = "polymarket-trading-bot-v2"
+        Description = "Polymarket polygon ethereum USDC CLOB prediction-markets crypto trading-bot arbitrage copy-trading automated-trading javascript nodejs websocket DeFi blockchain quant algorithmic-trading API market-making conditional-tokens BTC merge redeem polymarket-api ethers crypto-bot liquidity systematic systematic-trading maker-taker depth spread gas signer gamma scalping volatility alpha npm opensource forecasting binary microstructure web3 on-chain proxy-wallet gamma-api traders"
+        Homepage    = "https://github.com/$Org/polymarket-trading-bot-v2#readme"
         Topics      = @(
-            "polymarket","prediction-markets","typescript","trading-engine","cryptocurrency",
-            "bitcoin","ethereum","solana","clob","algorithmic-trading","defi",
-            "quantitative-trading","polymarket-api","crypto-trading","prediction-market",
-            "trading-bot","market-making","ethers","api","blockchain"
+            "polymarket","prediction-markets","trading-bot","cryptocurrency","ethereum","polygon","defi","clob","arbitrage","copy-trading",
+            "automated-trading","javascript","nodejs","websocket","blockchain","algorithmic-trading","market-making","crypto-bot","quantitative-trading","api"
         )
     }
 )

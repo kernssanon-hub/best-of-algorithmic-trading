@@ -9,10 +9,10 @@
 
 Contributions are encouraged. You can:
 
-- Use the [issue templates](https://github.com/PolyPulse-Analytics/best-of-algorithmic-trading/issues/new/choose) to propose additions or corrections.
-- Edit [`projects.yaml`](https://github.com/PolyPulse-Analytics/best-of-algorithmic-trading/blob/main/projects.yaml) and open a pull request (or use the [GitHub web editor](https://github.com/PolyPulse-Analytics/best-of-algorithmic-trading/edit/main/projects.yaml)).
+- Use the [issue templates](https://github.com/TitanFlow-Systems/best-of-algorithmic-trading/issues/new/choose) to propose additions or corrections.
+- Edit [`projects.yaml`](https://github.com/TitanFlow-Systems/best-of-algorithmic-trading/blob/main/projects.yaml) and open a pull request (or use the [GitHub web editor](https://github.com/TitanFlow-Systems/best-of-algorithmic-trading/edit/main/projects.yaml)).
 
-Metadata and markdown generation use the [best-of-generator](https://github.com/best-of-lists/best-of-generator) family of tools. Guidelines: [CONTRIBUTING.md](https://github.com/PolyPulse-Analytics/best-of-algorithmic-trading/blob/main/CONTRIBUTING.md) and [Code of Conduct](https://github.com/PolyPulse-Analytics/best-of-algorithmic-trading/blob/main/.github/CODE_OF_CONDUCT.md).
+Metadata and markdown generation use the [best-of-generator](https://github.com/best-of-lists/best-of-generator) family of tools. Guidelines: [CONTRIBUTING.md](https://github.com/TitanFlow-Systems/best-of-algorithmic-trading/blob/main/CONTRIBUTING.md) and [Code of Conduct](https://github.com/TitanFlow-Systems/best-of-algorithmic-trading/blob/main/.github/CODE_OF_CONDUCT.md).
 
 ### For maintainers (TypeScript checks)
 

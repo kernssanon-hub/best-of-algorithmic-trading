@@ -20,11 +20,11 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/PolyPulse-Analytics/best-of-algorithmic-trading.git"
+    "url": "https://github.com/TitanFlow-Systems/best-of-algorithmic-trading.git"
   },
-  "homepage": "https://github.com/PolyPulse-Analytics/best-of-algorithmic-trading#readme",
+  "homepage": "https://github.com/TitanFlow-Systems/best-of-algorithmic-trading#readme",
   "bugs": {
-    "url": "https://github.com/PolyPulse-Analytics/best-of-algorithmic-trading/issues"
+    "url": "https://github.com/TitanFlow-Systems/best-of-algorithmic-trading/issues"
   },
   "engines": {
     "node": ">=20"

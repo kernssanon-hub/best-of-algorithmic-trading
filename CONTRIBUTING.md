@@ -3,9 +3,9 @@
 
 Thanks for your interest in contributing to our project. This page will give you a quick overview of how things are organized and, most importantly, how to get involved. Everyone is welcome to contribute, and we value everybody's contribution.
 
-**If you edit [`projects.yaml`](https://github.com/PolyPulse-Analytics/best-of-algorithmic-trading/blob/main/projects.yaml):** install [Node.js](https://nodejs.org/) 20+, then run **`npm install`** and **`npm run check`** in the repo root. That validates the YAML schema, categories, and labels locally before you open a pull request.
+**If you edit [`projects.yaml`](https://github.com/TitanFlow-Systems/best-of-algorithmic-trading/blob/main/projects.yaml):** install [Node.js](https://nodejs.org/) 20+, then run **`npm install`** and **`npm run check`** in the repo root. That validates the YAML schema, categories, and labels locally before you open a pull request.
 
-*Org admins:* To mirror under **`PolyPulse-Analytics`**, see **`scripts/create-polypulse-org-repos.ps1`** (prompts for a PAT with permission to create repositories in that org).
+*Org admins:* To mirror under **`TitanFlow-Systems`**, see **`scripts/create-polypulse-org-repos.ps1`** (prompts for a PAT with permission to create repositories in that org).
 ## Table of contents
 
 1. [Add a project](#add-a-project)
@@ -19,8 +19,8 @@ Thanks for your interest in contributing to our project. This page will give you
 
 If you like to suggest or add a project, choose one of the following ways:
 
-- Suggest a project by opening an issue: Please use the suggest project template from the [issue page](https://github.com/PolyPulse-Analytics/best-of-algorithmic-trading/issues/new/choose) and fill in the requested information.
-- Add a project by modifying the [projects.yaml](https://github.com/PolyPulse-Analytics/best-of-algorithmic-trading/blob/main/projects.yaml) and submitting a pull request with your addition. This can also be done directly via the [Github UI](https://github.com/PolyPulse-Analytics/best-of-algorithmic-trading/edit/main/projects.yaml).
+- Suggest a project by opening an issue: Please use the suggest project template from the [issue page](https://github.com/TitanFlow-Systems/best-of-algorithmic-trading/issues/new/choose) and fill in the requested information.
+- Add a project by modifying the [projects.yaml](https://github.com/TitanFlow-Systems/best-of-algorithmic-trading/blob/main/projects.yaml) and submitting a pull request with your addition. This can also be done directly via the [Github UI](https://github.com/TitanFlow-Systems/best-of-algorithmic-trading/edit/main/projects.yaml).
 
 Before opening an issue or pull request, please ensure that you adhere to the following guidelines:
 
@@ -36,14 +36,14 @@ Before opening an issue or pull request, please ensure that you adhere to the fo
     ```
 - Please create an individual issue or pull request for each project.
 - Please use the following title format for the issue or pull request: `Add project: project-name`.
-- If a project doesn't fit into any of the pre-existing categories, it should go under the `Others` category by not assigning any category. You can also suggest a new category via the add or update category template on the [issue page](https://github.com/PolyPulse-Analytics/best-of-algorithmic-trading/issues/new/choose).
+- If a project doesn't fit into any of the pre-existing categories, it should go under the `Others` category by not assigning any category. You can also suggest a new category via the add or update category template on the [issue page](https://github.com/TitanFlow-Systems/best-of-algorithmic-trading/issues/new/choose).
 
 ## Update a project
 
 If you like to suggest or contribute a project update, choose one of the following ways:
 
-- Suggest a project update by opening an issue: Please use the update project template from the [issue page](https://github.com/PolyPulse-Analytics/best-of-algorithmic-trading/issues/new/choose) and fill in the requested information.
-- Update a project by modifying the [projects.yaml](https://github.com/PolyPulse-Analytics/best-of-algorithmic-trading/blob/main/projects.yaml) and submitting a pull request with your changes. This can also be done directly via the [Github UI](https://github.com/PolyPulse-Analytics/best-of-algorithmic-trading/edit/main/projects.yaml).
+- Suggest a project update by opening an issue: Please use the update project template from the [issue page](https://github.com/TitanFlow-Systems/best-of-algorithmic-trading/issues/new/choose) and fill in the requested information.
+- Update a project by modifying the [projects.yaml](https://github.com/TitanFlow-Systems/best-of-algorithmic-trading/blob/main/projects.yaml) and submitting a pull request with your changes. This can also be done directly via the [Github UI](https://github.com/TitanFlow-Systems/best-of-algorithmic-trading/edit/main/projects.yaml).
 
 Before opening an issue or pull request, please ensure that you adhere to the following guidelines:
 
