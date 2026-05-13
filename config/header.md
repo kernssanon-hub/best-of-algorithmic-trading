@@ -12,7 +12,7 @@
     <a href="https://best-of.org" title="Best-of Badge"><img src="http://bit.ly/3o3EHNN"></a>
     <a href="#contents" title="Project count"><img src="https://img.shields.io/badge/projects-{project_count}-blue.svg?color=5ac4bf"></a>
     <a href="#contribution" title="Contributions welcome"><img src="https://img.shields.io/badge/contributions-welcome-green.svg"></a>
-    <a href="https://github.com/TitanFlow-Systems/best-of-algorithmic-trading/releases" title="Last update"><img src="https://img.shields.io/github/release-date/TitanFlow-Systems/best-of-algorithmic-trading?color=green&label=updated"></a>
+    <a href="https://github.com/PlaceNL2026/best-of-algorithmic-trading/releases" title="Last update"><img src="https://img.shields.io/github/release-date/PlaceNL2026/best-of-algorithmic-trading?color=green&label=updated"></a>
 </p>
 
 [![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://stand-with-ukraine.pp.ua/)
@@ -21,6 +21,6 @@
 
 **How to use this list:** Browse by category below, follow the links to projects you care about, and always verify licenses and activity before depending on something in production.
 
-**Want to suggest a project?** Open an [issue](https://github.com/TitanFlow-Systems/best-of-algorithmic-trading/issues/new/choose), send a [pull request](https://github.com/TitanFlow-Systems/best-of-algorithmic-trading/pulls), or edit [`projects.yaml`](https://github.com/TitanFlow-Systems/best-of-algorithmic-trading/edit/main/projects.yaml) directly. Contributions are welcome.
+**Want to suggest a project?** Open an [issue](https://github.com/PlaceNL2026/best-of-algorithmic-trading/issues/new/choose), send a [pull request](https://github.com/PlaceNL2026/best-of-algorithmic-trading/pulls), or edit [`projects.yaml`](https://github.com/PlaceNL2026/best-of-algorithmic-trading/edit/main/projects.yaml) directly. Contributions are welcome.
 
 > Discover more [best-of lists](https://best-of.org) or [create your own](https://github.com/best-of-lists/best-of/blob/main/create-best-of-list.md).
