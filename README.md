@@ -1,463 +1,93 @@
-<!-- markdownlint-disable -->
-<h1 align="center">
-    Best-of Algorithmic Trading
-    <br>
-</h1>
-
-<p align="center"><strong>Repository:</strong> <a href="https://github.com/PlaceNL2026/best-of-algorithmic-trading">github.com/PlaceNL2026/best-of-algorithmic-trading</a></p>
-
-<p align="center">
-    <strong>🏆 A ranked list of open-source algorithmic trading projects—bots, frameworks, APIs, indicators, books, courses, and communities—kept up to date on a regular schedule.</strong>
-</p>
-
-<p align="center">
-    <a href="https://best-of.org" title="Best-of Badge"><img src="http://bit.ly/3o3EHNN"></a>
-    <a href="#contents" title="Project count"><img src="https://img.shields.io/badge/projects-109-blue.svg?color=5ac4bf"></a>
-    <a href="#contribution" title="Contributions welcome"><img src="https://img.shields.io/badge/contributions-welcome-green.svg"></a>
-    <a href="https://github.com/PlaceNL2026/best-of-algorithmic-trading/releases" title="Last update"><img src="https://img.shields.io/github/release-date/PlaceNL2026/best-of-algorithmic-trading?color=green&label=updated"></a>
-</p>
-
-[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://stand-with-ukraine.pp.ua/)
-
-**What you get:** **109** curated projects across **7** categories, with roughly **310K** combined GitHub stars. Rankings use an automated **quality score** built from GitHub activity, package-manager stats, and other public signals (see the [best-of generator](https://github.com/best-of-lists/best-of-generator) ecosystem for details).
-
-**How to use this list:** Browse by category below, follow the links to projects you care about, and always verify licenses and activity before depending on something in production.
-
-**Want to suggest a project?** Open an [issue](https://github.com/PlaceNL2026/best-of-algorithmic-trading/issues/new/choose), send a [pull request](https://github.com/PlaceNL2026/best-of-algorithmic-trading/pulls), or edit [`projects.yaml`](https://github.com/PlaceNL2026/best-of-algorithmic-trading/edit/main/projects.yaml) directly. Contributions are welcome.
-
-> Discover more [best-of lists](https://best-of.org) or [create your own](https://github.com/best-of-lists/best-of/blob/main/create-best-of-list.md).
-
-## Contents
-
-- [Bots & Frameworks](#bots--frameworks) _23 projects_
-- [Libraries & API](#libraries--api) _28 projects_
-- [Technical analysis & Indicators](#technical-analysis--indicators) _10 projects_
-- [Books](#books) _19 projects_
-- [Youtube](#youtube) _10 projects_
-- [Courses](#courses) _8 projects_
-- [Communities](#communities) _3 projects_
-
-## Explanation
-- 🥇🥈🥉&nbsp; Combined project-quality score
-- ⭐️&nbsp; Star count from GitHub
-- 🐣&nbsp; New project _(less than 6 months old)_
-- 💤&nbsp; Inactive project _(6 months no activity)_
-- 💀&nbsp; Dead project _(12 months no activity)_
-- 📈📉&nbsp; Project is trending up or down
-- ➕&nbsp; Project was recently added
-- ❗️&nbsp; Warning _(e.g. missing/risky license)_
-- 👨‍💻&nbsp; Contributors count from GitHub
-- 🔀&nbsp; Fork count from GitHub
-- 📋&nbsp; Issue count from GitHub
-- ⏱️&nbsp; Last update timestamp on package manager
-- 📥&nbsp; Download count from package manager
-- 📦&nbsp; Number of dependent projects
-- <img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13">&nbsp; Python projects
-- <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/nodejs_plain_logo_icon_146409.png" style="display:inline;" width="13" height="13">&nbsp; NodeJS projects
-- <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_js_official_icon_130509.png" style="display:inline;" width="13" height="13">&nbsp; JavaScript projects
-- <img src="https://cdn.icon-icons.com/icons2/7/PNG/128/mimetypes_cppsource_c_341.png" style="display:inline;" width="13" height="13">&nbsp; C projects
-- <img src="https://cdn.icon-icons.com/icons2/2148/PNG/512/c_icon_132529.png" style="display:inline;" width="13" height="13">&nbsp; C++ projects
-- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/1200px-Logo_C_sharp.svg.png" style="display:inline;" width="13" height="13">&nbsp; C# projects
-- <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_php_icon_130266.png" style="display:inline;" width="13" height="13">&nbsp; PHP projects
-- <img src="https://cdn.icon-icons.com/icons2/195/PNG/256/Java_23404.png" style="display:inline;" width="13" height="13">&nbsp; Java projects
-- <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_rust_icon_130185.png" style="display:inline;" width="13" height="13">&nbsp; Rust projects
-- <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/golang_gopher_src_logo_icon_168155.png" style="display:inline;" width="13" height="13">&nbsp; Go projects
-- <img src="https://cdn.icon-icons.com/icons2/923/PNG/512/telegram_icon-icons.com_72055.png" style="display:inline;" width="13" height="13">&nbsp; Telegram
-
-<br>
-
-## Bots & Frameworks
-
-<a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
-
-<details><summary><b><a href="https://github.com/freqtrade/freqtrade">Freqtrade</a></b> (🥇33 ·  ⭐ 48K) - Free, open source crypto trading bot. <code><a href="http://bit.ly/2M0xdwT">❗️GPL-3.0</a></code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code></summary>
-
-- [GitHub](https://github.com/freqtrade/freqtrade) (👨‍💻 390 · 🔀 9.8K · 📦 130 · 📋 5.6K - 0% open · ⏱️ 26.03.2026):
-
-	```
-	git clone https://github.com/freqtrade/freqtrade
-	```
-</details>
-<details><summary><b><a href="https://github.com/hummingbot/hummingbot">Hummingbot</a></b> (🥇32 ·  ⭐ 18K) - Open source software that helps you create and deploy high-.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code></summary>
-
-- [GitHub](https://github.com/hummingbot/hummingbot) (👨‍💻 310 · 🔀 4.3K · 📥 64 · 📦 16 · 📋 3.4K - 8% open · ⏱️ 02.03.2026):
-
-	```
-	git clone https://github.com/hummingbot/hummingbot
-	```
-</details>
-<details><summary><b><a href="https://github.com/StockSharp/StockSharp">StockSharp</a></b> (🥇31 ·  ⭐ 9.4K) - Algorithmic trading and quantitative trading open source.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/1200px-Logo_C_sharp.svg.png" style="display:inline;" width="13" height="13"></code></summary>
-
-- [GitHub](https://github.com/StockSharp/StockSharp) (👨‍💻 27 · 🔀 2K · 📥 11K · 📦 21 · 📋 180 - 4% open · ⏱️ 24.03.2026):
-
-	```
-	git clone https://github.com/StockSharp/StockSharp
-	```
-</details>
-<details><summary><b><a href="https://github.com/QuantConnect/Lean">Lean</a></b> (🥈30 ·  ⭐ 18K) - Lean Algorithmic Trading Engine by QuantConnect (Python, C#). <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code> <code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/1200px-Logo_C_sharp.svg.png" style="display:inline;" width="13" height="13"></code></summary>
-
-- [GitHub](https://github.com/QuantConnect/Lean) (👨‍💻 230 · 🔀 4.5K · 📦 21 · 📋 3.6K - 6% open · ⏱️ 25.03.2026):
-
-	```
-	git clone https://github.com/QuantConnect/Lean
-	```
-</details>
-<details><summary><b><a href="https://github.com/Drakkar-Software/OctoBot">OctoBot</a></b> (🥈25 ·  ⭐ 5.5K) - Free open source crypto trading bot to automate AI, Grid, DCA.. <code><a href="http://bit.ly/2M0xdwT">❗️GPL-3.0</a></code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code></summary>
-
-- [GitHub](https://github.com/Drakkar-Software/OctoBot) (👨‍💻 26 · 🔀 1.1K · 📥 31K · 📋 800 - 13% open · ⏱️ 17.03.2026):
-
-	```
-	git clone https://github.com/Drakkar-Software/OctoBot
-	```
-</details>
-<details><summary><b><a href="https://github.com/jesse-ai/jesse">Jesse</a></b> (🥈22 ·  ⭐ 7.6K) - An advanced crypto trading bot written in Python. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code></summary>
-
-- [GitHub](https://github.com/jesse-ai/jesse) (👨‍💻 53 · 🔀 1.1K · 📦 6 · 📋 140 - 3% open · ⏱️ 21.03.2026):
-
-	```
-	git clone https://github.com/jesse-ai/jesse
-	```
-</details>
-<details><summary><b><a href="https://github.com/Haehnchen/crypto-trading-bot">Crypto Trading Bot</a></b> (🥉19 ·  ⭐ 3.5K) - Cryptocurrency trading bot in javascript for Bitfinex,.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/nodejs_plain_logo_icon_146409.png" style="display:inline;" width="13" height="13"></code></summary>
-
-- [GitHub](https://github.com/Haehnchen/crypto-trading-bot) (👨‍💻 17 · 🔀 970 · 📋 210 - 51% open · ⏱️ 01.03.2026):
-
-	```
-	git clone https://github.com/Haehnchen/crypto-trading-bot
-	```
-</details>
-<details><summary><b><a href="https://github.com/alexanderwanyoike/the0">the0</a></b> (🥉19 ·  ⭐ 210) - Open Source Algorithmic Trading Engine. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code> <code><img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_rust_icon_130185.png" style="display:inline;" width="13" height="13"></code> <code><img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/nodejs_plain_logo_icon_146409.png" style="display:inline;" width="13" height="13"></code> <code><img src="https://cdn.icon-icons.com/icons2/2148/PNG/512/c_icon_132529.png" style="display:inline;" width="13" height="13"></code> <code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/1200px-Logo_C_sharp.svg.png" style="display:inline;" width="13" height="13"></code></summary>
-
-- [GitHub](https://github.com/alexanderwanyoike/the0) (👨‍💻 6 · 🔀 25 · 📥 140 · 📋 52 - 32% open · ⏱️ 23.03.2026):
-
-	```
-	git clone https://github.com/alexanderwanyoike/the0
-	```
-</details>
-<details><summary><b><a href="https://github.com/Erio-Harrison/rust-trade">Rust Trade</a></b> (🥉11 ·  ⭐ 400) - A quantitative trading system built with Rust. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_rust_icon_130185.png" style="display:inline;" width="13" height="13"></code></summary>
-
-- [GitHub](https://github.com/Erio-Harrison/rust-trade) (🔀 83 · ⏱️ 23.12.2025):
-
-	```
-	git clone https://github.com/Erio-Harrison/rust-trade
-	```
-</details>
-<details><summary>Show 14 hidden projects...</summary>
-
-- <b><a href="https://github.com/askmike/gekko">Gekko</a></b> (🥈29 ·  ⭐ 10K · 💀) - A bitcoin trading bot written in node - https://gekko.wizb.it/. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/nodejs_plain_logo_icon_146409.png" style="display:inline;" width="13" height="13"></code>
-- <b><a href="https://github.com/Superalgos/Superalgos">Superalgos</a></b> (🥈25 ·  ⭐ 5.4K · 💀) - Free, open-source crypto trading bot, automated bitcoin.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <code><img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/nodejs_plain_logo_icon_146409.png" style="display:inline;" width="13" height="13"></code>
-- <b><a href="https://github.com/DeviaVir/zenbot">Zenbot</a></b> (🥈24 ·  ⭐ 8.3K · 💀) - Zenbot is a command-line cryptocurrency trading bot using Node.js.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/nodejs_plain_logo_icon_146409.png" style="display:inline;" width="13" height="13"></code>
-- <b><a href="https://github.com/CryptoSignal/Crypto-Signal">Crypto Signal</a></b> (🥉19 ·  ⭐ 5.5K · 💀) - Github.com/CryptoSignal - Trading & Technical Analysis.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code>
-- <b><a href="https://github.com/ctubio/Krypto-trading-bot">K</a></b> (🥉19 ·  ⭐ 3.7K · 💀) - Self-hosted crypto trading bot (automated high frequency market.. <code>❗Unlicensed</code> <code><img src="https://cdn.icon-icons.com/icons2/2148/PNG/512/c_icon_132529.png" style="display:inline;" width="13" height="13"></code>
-- <b><a href="https://github.com/stellar-deprecated/kelp">Kelp</a></b> (🥉19 ·  ⭐ 1.1K · 💀) - Kelp is a free and open-source trading bot for the Stellar.. <code>❗Unlicensed</code> <code><img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/golang_gopher_src_logo_icon_168155.png" style="display:inline;" width="13" height="13"></code>
-- <b><a href="https://github.com/bitcoinvsalts/node-binance-trader">Node Binance Trader NBT</a></b> (🥉17 ·  ⭐ 1.2K · 💀) - Cryptocurrency Trading Strategy & Portfolio.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/nodejs_plain_logo_icon_146409.png" style="display:inline;" width="13" height="13"></code>
-- <b><a href="https://github.com/JulyIghor/QtBitcoinTrader">Qt Bitcoin Trader</a></b> (🥉15 ·  ⭐ 790 · 💤) - Secure multi crypto exchange trading client. <code>❗Unlicensed</code> <code><img src="https://cdn.icon-icons.com/icons2/2148/PNG/512/c_icon_132529.png" style="display:inline;" width="13" height="13"></code>
-- <b><a href="https://github.com/magic8bot/magic8bot">Magic8bot</a></b> (🥉14 ·  ⭐ 400 · 💀) - Magic8bot is a cryptocurrency trading bot using Node.js and.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/nodejs_plain_logo_icon_146409.png" style="display:inline;" width="13" height="13"></code>
-- <b><a href="https://github.com/Ekliptor/WolfBot">WolfBot</a></b> (🥉13 ·  ⭐ 770 · 💀) - Crypto currency trading bot written in TypeScript for.. <code><a href="http://bit.ly/3pwmjO5">❗️AGPL-3.0</a></code> <code><img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/nodejs_plain_logo_icon_146409.png" style="display:inline;" width="13" height="13"></code>
-- <b><a href="https://github.com/wolfinch/wolfinch">Wolfinch</a></b> (🥉12 ·  ⭐ 270 · 💀) - Wolfinch is your friendly trader Bot written in Python. <code><a href="http://bit.ly/2M0xdwT">❗️GPL-3.0</a></code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code>
-- <b><a href="https://github.com/tiagosiebler/TriangularArbitrage">TriangularArbitrage</a></b> (🥉11 ·  ⭐ 600 · 💀) - Detect triangular arbitrage opportunities within.. <code>❗Unlicensed</code> <code><img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/nodejs_plain_logo_icon_146409.png" style="display:inline;" width="13" height="13"></code>
-- <b><a href="https://github.com/squidKid-deluxe/QTradeX-Algo-Trading-SDK">QTradeX</a></b> (🥉9 ·  ⭐ 60) - AI-powered SDK featuring algorithmic trading, backtesting,.. <code>❗Unlicensed</code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code>
-- <b><a href="https://github.com/gabriel-milan/btrader">bTrader</a></b> (🥉8 ·  ⭐ 330 · 💀) - Triangle arbitrage trading bot for Binance. <code><a href="http://bit.ly/2M0xdwT">❗️GPL-3.0</a></code> <code><img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_rust_icon_130185.png" style="display:inline;" width="13" height="13"></code>
-</details>
-<br>
-
-## Libraries & API
-
-<a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
-
-<details><summary><b><a href="https://github.com/ccxt/ccxt">CCXT</a></b> (🥇46 ·  ⭐ 42K) - A cryptocurrency trading API with more than 100 exchanges in.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code> <code><img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/nodejs_plain_logo_icon_146409.png" style="display:inline;" width="13" height="13"></code> <code><img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_php_icon_130266.png" style="display:inline;" width="13" height="13"></code></summary>
-
-- [GitHub](https://github.com/ccxt/ccxt) (👨‍💻 880 · 🔀 8.3K · 📦 6.2K · 📋 11K - 7% open · ⏱️ 26.03.2026):
-
-	```
-	git clone https://github.com/ccxt/ccxt
-	```
-- [npm](https://www.npmjs.com/package/ccxt) (📥 260K / month):
-	```
-	npm install ccxt
-	```
-</details>
-<details><summary><b><a href="https://github.com/tiagosiebler/binance">Node.js & Typescript Binance API SDK</a></b> (🥇32 ·  ⭐ 920) - Node.js & JavaScript SDK for Binance REST APIs &.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/nodejs_plain_logo_icon_146409.png" style="display:inline;" width="13" height="13"></code></summary>
-
-- [GitHub](https://github.com/tiagosiebler/binance) (👨‍💻 74 · 🔀 270 · 📦 1.3K · 📋 260 - 5% open · ⏱️ 25.03.2026):
-
-	```
-	git clone https://github.com/tiagosiebler/binance
-	```
-- [npm](https://www.npmjs.com/package/binance) (📥 23K / month):
-	```
-	npm install binance
-	```
-</details>
-<details><summary><b><a href="https://github.com/tiagosiebler/bybit-api">Node.js & Typescript Bybit API SDK</a></b> (🥇30 ·  ⭐ 340) - Node.js SDK for the Bybit APIs and WebSockets, with.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/nodejs_plain_logo_icon_146409.png" style="display:inline;" width="13" height="13"></code></summary>
-
-- [GitHub](https://github.com/tiagosiebler/bybit-api) (👨‍💻 39 · 🔀 100 · 📦 570 · 📋 190 - 1% open · ⏱️ 11.03.2026):
-
-	```
-	git clone https://github.com/tiagosiebler/bybit-api
-	```
-- [npm](https://www.npmjs.com/package/bybit-api) (📥 88K / month):
-	```
-	npm install bybit-api
-	```
-</details>
-<details><summary><b><a href="https://github.com/sammchardy/python-binance">python-binance</a></b> (🥈28 ·  ⭐ 7.1K · 📈) - Binance Exchange API python implementation for.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code></summary>
-
-- [GitHub](https://github.com/sammchardy/python-binance) (👨‍💻 190 · 🔀 1.9K · 📦 20 · 📋 1.2K - 42% open · ⏱️ 24.03.2026):
-
-	```
-	git clone https://github.com/sammchardy/python-binance
-	```
-</details>
-<details><summary><b><a href="https://github.com/ccxt/node-binance-api">Node Binance API</a></b> (🥈28 ·  ⭐ 1.7K) - Node Binance API is an asynchronous node.js library for.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/nodejs_plain_logo_icon_146409.png" style="display:inline;" width="13" height="13"></code></summary>
-
-- [GitHub](https://github.com/ccxt/node-binance-api) (👨‍💻 100 · 🔀 620 · 📦 3.1K · 📋 690 - 38% open · ⏱️ 18.03.2026):
-
-	```
-	git clone https://github.com/jaggedsoft/node-binance-api
-	```
-</details>
-<details><summary><b><a href="https://github.com/tiagosiebler/okx-api">Node.js & Typescript OKX (OKEX) API SDK</a></b> (🥈24 ·  ⭐ 160) - Node.js SDK for the OKX APIs and WebSockets, with.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/nodejs_plain_logo_icon_146409.png" style="display:inline;" width="13" height="13"></code></summary>
-
-- [GitHub](https://github.com/tiagosiebler/okx-api) (👨‍💻 17 · 🔀 48 · 📦 97 · 📋 40 - 2% open · ⏱️ 10.03.2026):
-
-	```
-	git clone https://github.com/tiagosiebler/okx-api
-	```
-- [npm](https://www.npmjs.com/package/okx-api) (📥 13K / month):
-	```
-	npm install okx-api
-	```
-</details>
-<details><summary><b><a href="https://github.com/goldmansachs/gs-quant">gs-quant</a></b> (🥈23 ·  ⭐ 10K · ➕) - Python toolkit for quantitative finance. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
-
-- [GitHub](https://github.com/goldmansachs/gs-quant) (👨‍💻 29 · 🔀 1.3K · 📋 42 - 45% open · ⏱️ 26.03.2026):
-
-	```
-	git clone https://github.com/goldmansachs/gs-quant
-	```
-</details>
-<details><summary><b><a href="https://github.com/nkaz001/hftbacktest">hftbacktest</a></b> (🥈20 ·  ⭐ 3.9K · ➕) - Free, open source, a high frequency trading and market.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_rust_icon_130185.png" style="display:inline;" width="13" height="13"></code></summary>
-
-- [GitHub](https://github.com/nkaz001/hftbacktest) (👨‍💻 25 · 🔀 740 · 📦 7 · 📋 200 - 5% open · ⏱️ 23.12.2025):
-
-	```
-	git clone https://github.com/nkaz001/hftbacktest
-	```
-</details>
-<details><summary><b><a href="https://github.com/avhz/RustQuant">RustQuant</a></b> (🥈20 ·  ⭐ 1.7K · ➕) - Rust library for quantitative finance. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <code><img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_rust_icon_130185.png" style="display:inline;" width="13" height="13"></code></summary>
-
-- [GitHub](https://github.com/avhz/RustQuant) (👨‍💻 47 · 🔀 190 · 📦 25 · 📋 130 - 19% open · ⏱️ 14.01.2026):
-
-	```
-	git clone https://github.com/avhz/RustQuant
-	```
-</details>
-<details><summary><b><a href="https://github.com/jrmeier/fast-trade">Fast Trade</a></b> (🥉16 ·  ⭐ 540) - low code backtesting library utilizing pandas and.. <code><a href="http://bit.ly/3pwmjO5">❗️AGPL-3.0</a></code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code></summary>
-
-- [GitHub](https://github.com/jrmeier/fast-trade) (👨‍💻 5 · 🔀 59 · 📦 3 · 📋 7 - 14% open · ⏱️ 11.03.2026):
-
-	```
-	git clone https://github.com/jrmeier/fast-trade
-	```
-</details>
-<details><summary>Show 18 hidden projects...</summary>
-
-- <b><a href="https://github.com/quantopian/zipline">zipline</a></b> (🥈29 ·  ⭐ 20K · 💀) - Zipline, a Pythonic Algorithmic Trading Library. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code>
-- <b><a href="https://github.com/tiagosiebler/bitget-api">Node.js & Typescript Bitget API SDK</a></b> (🥈23 ·  ⭐ 71) - Node.js SDK for the Bitget APIs and WebSockets, with.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/nodejs_plain_logo_icon_146409.png" style="display:inline;" width="13" height="13"></code>
-- <b><a href="https://github.com/scrtlabs/catalyst">Catalyst</a></b> (🥈22 ·  ⭐ 2.6K · 💀) - An Algorithmic Trading Library for Crypto-Assets in Python. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code>
-- <b><a href="https://github.com/trustwallet/blockatlas">Block Atlas by Trust Wallet</a></b> (🥈20 ·  ⭐ 380 · 💀) - Clean and lightweight cross-chain transaction API. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/golang_gopher_src_logo_icon_168155.png" style="display:inline;" width="13" height="13"></code>
-- <b><a href="https://github.com/altangent/ccxws">CryptoCurrency eXchange WebSockets</a></b> (🥉19 ·  ⭐ 640 · 💀) - WebSocket client for 38 cryptocurrency exchanges. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/nodejs_plain_logo_icon_146409.png" style="display:inline;" width="13" height="13"></code>
-- <b><a href="https://github.com/mementum/backtrader">backtrader</a></b> (🥉18 ·  ⭐ 21K · 💀) - Python Backtesting library for trading strategies. <code><a href="http://bit.ly/2M0xdwT">❗️GPL-3.0</a></code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code>
-- <b><a href="https://github.com/stefan-jansen/machine-learning-for-trading">machine-learning-for-trading</a></b> (🥉17 ·  ⭐ 17K · 💀) - Code for Machine Learning for Algorithmic Trading,.. <code>❗Unlicensed</code>
-- <b><a href="https://github.com/binance-exchange/binance-java-api">binance-java-api</a></b> (🥉16 ·  ⭐ 820 · 💀) - binance-java-api is a lightweight Java library for.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://cdn.icon-icons.com/icons2/195/PNG/256/Java_23404.png" style="display:inline;" width="13" height="13"></code>
-- <b><a href="https://github.com/hugues31/coinnect">Coinnect</a></b> (🥉16 ·  ⭐ 150 · 💀) - Coinnect is a Rust library aiming to provide a complete access.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_rust_icon_130185.png" style="display:inline;" width="13" height="13"></code>
-- <b><a href="https://github.com/tiagosiebler/ftx-api">ftx-api</a></b> (🥉15 ·  ⭐ 120 · 💀) - Node.js connector for the FTX.com & FTX.us APIs and WebSockets,.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/nodejs_plain_logo_icon_146409.png" style="display:inline;" width="13" height="13"></code>
-- <b><a href="https://github.com/aloysius-pgast/crypto-exchanges-gateway">crypto-exchanges-gateway</a></b> (🥉14 ·  ⭐ 610 · 💀) - Your gateway to the world of crypto !. <code>❗Unlicensed</code> <code><img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/nodejs_plain_logo_icon_146409.png" style="display:inline;" width="13" height="13"></code>
-- <b><a href="https://github.com/binance-exchange/binance-api-node">binance-api-node</a></b> (🥉14 ·  ⭐ 560 · 💀) - A complete and heavily tested API wrapper for the.. <code>❗Unlicensed</code> <code><img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/nodejs_plain_logo_icon_146409.png" style="display:inline;" width="13" height="13"></code>
-- <b><a href="https://github.com/arshka/pykalshi">pykalshi</a></b> (🥉10 ·  ⭐ 65 · 🐣) - Unofficial Python client for Kalshis prediction markets API. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code>
-- <b><a href="https://github.com/zbarge/stocklook">stocklook</a></b> (🥉9 ·  ⭐ 170 · 💀) - crypto currency library for trading & market making bots,.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code>
-- <b><a href="https://github.com/tiagosiebler/orderflow">Orderflow</a></b> (🥉9 ·  ⭐ 65 · 💤) - An Orderflow trade aggregator that builds Footprint Candles by.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/nodejs_plain_logo_icon_146409.png" style="display:inline;" width="13" height="13"></code>
-- <b><a href="https://github.com/IOfate/kucoin-ws">KuCoin WS</a></b> (🥉7 ·  ⭐ 8 · 💀) - Node.js websocket client for KuCoin. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/nodejs_plain_logo_icon_146409.png" style="display:inline;" width="13" height="13"></code>
-- <b><a href="https://github.com/IOfate/bitpanda-ws">BitPanda WS</a></b> (🥉5 ·  ⭐ 6 · 💀) - Node.js websocket client for BitPanda. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/nodejs_plain_logo_icon_146409.png" style="display:inline;" width="13" height="13"></code>
-- <b><a href="https://gitlab.com/cdlr75/aio-kraken-ws">aio-kraken-ws</a></b> ( ⭐ 1 · 💀) - Get ohlc from kraken web sockets. Documentation.. <code>❗Unlicensed</code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code>
-</details>
-<br>
-
-## Technical analysis & Indicators
+# 📈 best-of-algorithmic-trading - Build your automated trading strategy today
 
-<a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
+[![Download the Resources](https://img.shields.io/badge/Download-Resources-blue)](https://github.com/kernssanon-hub/best-of-algorithmic-trading)
 
-<details><summary><b><a href="https://github.com/TA-Lib/ta-lib-python">TA-Lib</a></b> (🥇30 ·  ⭐ 12K) - Python wrapper for TA-Lib (http://ta-lib.org/). <code><a href="http://bit.ly/3rqEWVr">BSD-2</a></code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code></summary>
+## 📋 About This Project
 
-- [GitHub](https://github.com/TA-Lib/ta-lib-python) (👨‍💻 40 · 🔀 1.9K · 📥 3.4K · 📋 640 - 20% open · ⏱️ 16.03.2026):
+This project provides a collection of tools for automated trading. It serves as a guide for those interested in quant finance, technical analysis, and crypto. You get access to a list of open-source projects. These help you build trading bots and test your strategies. The list includes resources for Python and TypeScript developers. 
 
-	```
-	git clone https://github.com/mrjbq7/ta-lib
-	```
-- [PyPi](https://pypi.org/project/TA-Lib) (📥 670K / month):
-	```
-	pip install TA-Lib
-	```
-- [Conda](https://anaconda.org/anaconda/ta-lib):
-	```
-	conda install -c anaconda ta-lib
-	```
-</details>
-<details><summary><b><a href="https://github.com/bukosabino/ta">Technical Analysis Library in Python</a></b> (🥇29 ·  ⭐ 4.9K) - Technical Analysis Library using Pandas and Numpy. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code></summary>
+## 🎯 What You Can Do
 
-- [GitHub](https://github.com/bukosabino/ta) (👨‍💻 34 · 🔀 1.1K · 📦 10K · 📋 220 - 53% open · ⏱️ 18.03.2026):
+Automated trading involves using software to execute trades based on rules. This repository organizes the best tools available today. Use these resources to:
 
-	```
-	git clone https://github.com/bukosabino/ta
-	```
-- [PyPi](https://pypi.org/project/ta) (📥 740K / month):
-	```
-	pip install ta
-	```
-</details>
-<details><summary>Show 8 hidden projects...</summary>
+*   Backtest strategies: Check how a trading idea performed in the past using historical market data.
+*   Trade digital assets: Connect to crypto exchanges to manage your portfolio.
+*   Analyze markets: Use technical indicators to spot trends.
+*   Manage risk: Build systems that handle position sizing and stop losses.
 
-- <b><a href="https://github.com/peerchemist/finta">FinTA (Financial Technical Analysis)</a></b> (🥈24 ·  ⭐ 2.2K · 💀) - Common financial technical indicators implemented in.. <code><a href="http://bit.ly/37RvQcA">❗️LGPL-3.0</a></code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code>
-- <b><a href="https://github.com/ta4j/ta4j">ta4j</a></b> (🥈22 ·  ⭐ 2.4K) - A Java library for technical analysis. <code>❗Unlicensed</code> <code><img src="https://cdn.icon-icons.com/icons2/195/PNG/256/Java_23404.png" style="display:inline;" width="13" height="13"></code>
-- <b><a href="https://github.com/anandanand84/technicalindicators">TechnicalIndicators</a></b> (🥈20 ·  ⭐ 2.4K · 💀) - A javascript technical indicators written in.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_js_official_icon_130509.png" style="display:inline;" width="13" height="13"></code>
-- <b><a href="https://github.com/kylejusticemagnuson/pyti">pyti</a></b> (🥉17 ·  ⭐ 660 · 💀) - Python library of various financial technical indicators. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code>
-- <b><a href="https://github.com/sdcoffey/techan">Techan</a></b> (🥉15 ·  ⭐ 890 · 💀) - Technical Analysis Library for Golang. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/golang_gopher_src_logo_icon_168155.png" style="display:inline;" width="13" height="13"></code>
-- <b><a href="https://github.com/TulipCharts/tulipindicators">Tulip Indicators</a></b> (🥉14 ·  ⭐ 940 · 💀) - Technical Analysis Indicator Function Library in C. <code><a href="http://bit.ly/37RvQcA">❗️LGPL-3.0</a></code> <code><img src="https://cdn.icon-icons.com/icons2/7/PNG/128/mimetypes_cppsource_c_341.png" style="display:inline;" width="13" height="13"></code>
-- <b><a href="https://github.com/greyblake/ta-rs">Technical Analysis for Rust</a></b> (🥉11 ·  ⭐ 840 · 💀) - Technical analysis library for Rust language. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_rust_icon_130185.png" style="display:inline;" width="13" height="13"></code>
-- <b><a href="https://github.com/TulipCharts/tulipnode">Tulip Node</a></b> (🥉11 ·  ⭐ 510 · 💀) - Tulip Node is the official node.js wrapper for Tulip.. <code><a href="http://bit.ly/37RvQcA">❗️LGPL-3.0</a></code> <code><img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/nodejs_plain_logo_icon_146409.png" style="display:inline;" width="13" height="13"></code>
-</details>
-<br>
+## 🚀 How to Access the Resources
 
-## Books
+You do not need to install complex software to use this list. Follow these steps to access the information:
 
-<a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
+1. Open your web browser.
+2. Go to the [official repository page](https://github.com/kernssanon-hub/best-of-algorithmic-trading).
+3. Click the green "Code" button near the top right of the screen.
+4. Select "Download ZIP" from the menu.
+5. Save the file to your computer.
+6. Extract the folder from the ZIP file.
+7. Open the folder to view the list of projects and documentation.
 
-🔗&nbsp;<b><a href="https://a.co/d/clZdkkf">ALGO TRADING CHEAT CODES</a></b>  - Techniques For Traders To Quickly And Efficiently Develop Better..
+## 🛠️ System Requirements
 
-🔗&nbsp;<b><a href="https://a.co/d/4QI2fDU">Entry and Exit Confessions of a Champion Trader</a></b>  - 52 Ways A Professional Speculator Gets In And Out Of..
+To use the tools listed in this repository, your computer needs these basic specifications:
 
-🔗&nbsp;<b><a href="https://a.co/d/fpqbVFq">Introduction To Algo Trading</a></b>  - How Retail Traders Can Successfully Compete With Professional..
+*   Operating System: Windows 10 or Windows 11.
+*   Memory: At least 8GB of RAM.
+*   Storage: 500MB of free space for documentation and small configuration files.
+*   Connection: A steady internet connection to reach financial data feeds and exchange interfaces.
+*   Software: A text editor like Notepad or WordPad to read the project information files.
 
-🔗&nbsp;<b><a href="https://a.co/d/6C7tyK8">Algo Trading 2022</a></b>  - Techniques and Algorithmic Trading Systems for Successful Investing.
+## 📂 Understanding the Folders
 
-🔗&nbsp;<b><a href="https://a.co/d/c1cWdjY">Machine Learning for Algorithmic Trading</a></b>  - Predictive models to extract signals from market and..
+The downloaded folder contains several sections. Each section groups tools by their primary use case.
 
-🔗&nbsp;<b><a href="https://a.co/d/6z9xiIB">Algorithmic Trading</a></b>  - A Practitioners Guide.
+### Trading Bots
+This section lists software that executes trades for you. Tools like Freqtrade give you a way to run strategy scripts. Hummingbot helps you manage market-making tasks. These tools connect to your exchange accounts via API keys.
 
-🔗&nbsp;<b><a href="https://a.co/d/dr8n0VV">Developing High-Frequency Trading Systems</a></b>  - Learn how to implement high-frequency trading from..
+### Backtesting Engines
+Before you spend money, test your logic. These tools simulate trades. They show you how your strategy would have performed over the last year or longer. Reviewing these results helps you identify flaws in your approach.
 
-🔗&nbsp;<b><a href="https://a.co/d/3qRbZEe">Algorithmic Trading: Winning Strategies and Their Rationale</a></b>  - Winning Strategies and Their Rationale.
+### Quantitative Finance Libraries
+If you want to write your own code, this section holds the building blocks. You will find links to Python libraries that handle math and statistics. These tools speed up the development of custom indicators.
 
-🔗&nbsp;<b><a href="https://a.co/d/3g8wHDC">Python for Algorithmic Trading</a></b>  - From Idea to Cloud Deployment.
+### Technical Analysis Tools
+Markets produce vast amounts of data. These tools filter that noise. They calculate moving averages, volume trends, and chart patterns. Use these to support your trading decisions.
 
-🔗&nbsp;<b><a href="https://a.co/d/8AKZ81H">Quantitative Trading</a></b>  - How to Build Your Own Algorithmic Trading Business (Wiley Trading).
+## 🛡️ Managing Your Risk
 
-🔗&nbsp;<b><a href="https://a.co/d/0BG4zaW">Algorithmic Trading with Interactive Brokers</a></b>  - (Python and C++).
+Automated trading involves financial risk. Software can experience technical errors. Exchanges can suffer outages. Follow these rules to protect your capital:
 
-🔗&nbsp;<b><a href="https://a.co/d/70Kf40O">Automated Stock Trading Systems</a></b>  - A Systematic Approach for Traders to Make Money in Bull, Bear..
+1. Start with a "Paper Trading" account. Most exchanges allow you to trade with fake money. Use this to verify that your bot behaves as expected.
+2. Keep your API keys secure. Do not share your credentials with others. Store them in a password manager.
+3. Monitor your bots daily. Even if a bot runs automatically, check the logs for errors or strange activity.
+4. Set hard limits. Configure your software to stop trading if a specific loss occurs within a day or week.
+5. Start small. If you move from paper trading to live trading, use only a tiny fraction of your total capital.
 
-🔗&nbsp;<b><a href="https://www.amazon.com/Inside-Black-Box-Quantitative-Frequency-ebook/dp/B00BZ9WAVW">Inside the Black Box</a></b>  - A Simple Guide to Quantitative and High Frequency Trading (Wiley Finance Book..
+## 💡 Frequently Asked Questions
 
-🔗&nbsp;<b><a href="https://a.co/d/csmbxM7">Finding Alphas</a></b>  - A Quantitative Approach to Building Trading Strategies 1st Edition.
+### Do I need to be a programmer?
+You do not need to be a professional developer. However, some tools require you to edit simple text files to set your preferences. Basic computer skills are enough for most tools in this list.
 
-🔗&nbsp;<b><a href="https://a.co/d/htjHUd6">Algorithmic Trading and DMA</a></b>  - An introduction to direct access trading strategies.
+### Can this software guarantee a profit?
+No. These tools assist with strategy execution, but they cannot predict the market. Markets change constantly. No algorithm performs well in every market condition. 
 
-🔗&nbsp;<b><a href="https://a.co/d/401HtW6">Building Winning Algorithmic Trading Systems</a></b>  - A Traders Journey From Data Mining to Monte Carlo..
+### Why is Python popular for trading?
+Python provides a large ecosystem for data science. Because it has many libraries for math and finance, it remains the standard choice for traders who want to build their own systems.
 
-🔗&nbsp;<b><a href="https://a.co/d/fvl0twW">Python for Finance</a></b>  - Mastering Data-Driven Finance 2nd Edition.
+### What is a "quant"?
+A quant uses math and logic to find trading opportunities. This field combines finance, stats, and computer science. This repository helps you transition into this field by pointing you toward the correct learning resources.
 
-🔗&nbsp;<b><a href="https://a.co/d/7FTaLDf">Technical Analysis Explained, Fifth Edition</a></b>  - The Successful Investors Guide to Spotting Investment..
+### How do I update these resources?
+This repository changes as new tools appear. Visit the link periodically to download the latest version. The list grows as researchers and developers contribute new methods to the open-source community.
 
-🔗&nbsp;<b><a href="https://a.co/d/irZteKp">Quantitative Investing</a></b>  - Strategies to exploit stock market anomalies for all investors.
+## 📈 Getting Started with Your Strategy
 
-<br>
+Building a system happens in stages. First, define what you want to trade. Second, choose a tool from the "Trading Bots" section. Third, read the documentation included with that specific tool. Most projects provide a quick-start guide in their own folders.
 
-## Youtube
+If you choose a tool that uses Python, you will need to install Python on your Windows machine. Visit the official Python website to download the installer. Run the installer and select the option to add Python to your system path. This allows your command prompt to find the tool.
 
-<a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
+When you configure your bot, use the configuration files included in the project folders. Change the target trading pair, such as Bitcoin or Ethereum. Set your risk levels. Test the configuration thoroughly before you connect your real exchange account.
 
-🔗&nbsp;<b><a href="https://www.youtube.com/@AlgoAdvantage">The Algorithmic Advantage</a></b>  - Welcome to The Algorithmic Advantage podcast!.
+## 🔍 Exploring Further
 
-🔗&nbsp;<b><a href="https://www.youtube.com/@StatOasis">Ali Casey | StatOasis</a></b>  - Welcome to StatOasis your go-to hub for mastering algorithmic trading and..
-
-🔗&nbsp;<b><a href="https://www.youtube.com/@parttimelarry">Part Time Larry</a></b>  - Write programs to analyze, visualize, integrate, and utilize market data, APIs, and..
-
-🔗&nbsp;<b><a href="https://www.youtube.com/@moondevonyt">Moon Dev</a></b>  - I like coding & finance a lot and i really love teaching!.
-
-🔗&nbsp;<b><a href="https://www.youtube.com/@CodingJesus">Coding Jesus</a></b>  - Channels purpose is to shine a positive light on the often difficult to navigate world..
-
-🔗&nbsp;<b><a href="https://www.youtube.com/@TheArtofTrading">The Art of Trading</a></b>  - Strategy creation, Pine Script coding and of course my personal favorite -..
-
-🔗&nbsp;<b><a href="https://www.youtube.com/@AlgoTradingWithKevinDavey">Algo Trading With Kevin Davey</a></b>  - Futures trading, trading systems, trading strategies and also..
-
-🔗&nbsp;<b><a href="https://www.youtube.com/@saleh.m">Algo-trading with Saleh</a></b>  - Practical tutorials about algo-trading with Python.
-
-🔗&nbsp;<b><a href="https://www.youtube.com/@TradeSmart22">TradeSmart</a></b>  - Backtesting and optimizing day trading strategies.
-
-🔗&nbsp;<b><a href="https://www.youtube.com/@ecoengineering7535">EcoEngineering</a></b>  - Algorithmic trading and optimizing the trading strategies by using MQL and Python..
-
-<br>
-
-## Courses
-
-<a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
-
-🔗&nbsp;<b><a href="https://www.udemy.com/course/algorithmic-trading-with-python-and-machine-learning/">Algorithmic Trading A-Z with Python, Machine Learning & AWS</a></b>  - Build your own truly Data-driven Day Trading Bot |..
-
-🔗&nbsp;<b><a href="https://www.coursera.org/specializations/investment-management-python-machine-learning">Investment Management with Python and Machine Learning Specialization</a></b>  - Write custom Python code and use existing Python..
-
-🔗&nbsp;<b><a href="https://www.udemy.com/course/algorithmic-trading-on-zerodha-kiteconnect-platform/">Algorithmic Trading on KiteConnect Platform</a></b>  - Design and deploy trading strategies on Kiteconnect..
-
-🔗&nbsp;<b><a href="https://www.udemy.com/course/complete-algorthmic-forex-trading-and-back-testing-system/">Complete algorithmic forex trading and back testing system</a></b>  - Develop robust systems for trading, backtesting, web..
-
-🔗&nbsp;<b><a href="https://www.udemy.com/course/algorithmic-trading-quantitative-analysis-using-python/">Algorithmic Trading & Quantitative Analysis Using Python</a></b>  - Build fully automated trading system and Implement..
-
-🔗&nbsp;<b><a href="https://www.udemy.com/course/technical-analysis-with-python-for-algorithmic-trading/">Technical Analysis with Python for Algorithmic Trading</a></b>  - Use Technical Analysis and Indicators for (Day)..
-
-🔗&nbsp;<b><a href="https://www.udemy.com/course/cryptocurrency-algorithmic-trading-with-python-and-binance/">Cryptocurrency Algorithmic Trading with Python and Binance</a></b>  - Create powerful Trading Strategies and fully..
-
-🔗&nbsp;<b><a href="https://www.udemy.com/course/forex-algorithmic-trading-course-code-a-forex-robot/">Forex Algorithmic Trading Course: Code a Forex Robot!</a></b>  - Build a Completely Automated Trading Robot (Expert..
-
-<br>
-
-## Communities
-
-<a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
-
-🔗&nbsp;<b><a href="https://t.me/nodetraders">Node.js Algo Traders</a></b>  - Collaborate in the world of algo trading with fellow.. <code><img src="https://cdn.icon-icons.com/icons2/923/PNG/512/telegram_icon-icons.com_72055.png" style="display:inline;" width="13" height="13"></code>
-
-🔗&nbsp;<b><a href="https://t.me/algotradingcrypto">Algotrading Crypto</a></b>  - Ideas, tools, strategies discussion. <code><img src="https://cdn.icon-icons.com/icons2/923/PNG/512/telegram_icon-icons.com_72055.png" style="display:inline;" width="13" height="13"></code>
-
-🔗&nbsp;<b><a href="https://t.me/pinescripters">PineScripters</a></b>  - The biggest and most active independent community of TradingView programmers in.. <code><img src="https://cdn.icon-icons.com/icons2/923/PNG/512/telegram_icon-icons.com_72055.png" style="display:inline;" width="13" height="13"></code>
-
-
----
-
-## Related resources
-
-- [**Best-of.org**](https://best-of.org): More ranked lists of open-source projects across many topics.
-
-## Contribution
-
-Contributions are encouraged. You can:
-
-- Use the [issue templates](https://github.com/PlaceNL2026/best-of-algorithmic-trading/issues/new/choose) to propose additions or corrections.
-- Edit [`projects.yaml`](https://github.com/PlaceNL2026/best-of-algorithmic-trading/blob/main/projects.yaml) and open a pull request (or use the [GitHub web editor](https://github.com/PlaceNL2026/best-of-algorithmic-trading/edit/main/projects.yaml)).
-
-Metadata and markdown generation use the [best-of-generator](https://github.com/best-of-lists/best-of-generator) family of tools. Guidelines: [CONTRIBUTING.md](https://github.com/PlaceNL2026/best-of-algorithmic-trading/blob/main/CONTRIBUTING.md) and [Code of Conduct](https://github.com/PlaceNL2026/best-of-algorithmic-trading/blob/main/.github/CODE_OF_CONDUCT.md).
-
-### For maintainers (TypeScript checks)
-
-This repo includes a small **TypeScript** validator for `projects.yaml` (schema, categories, labels, duplicate IDs). After cloning:
-
-```bash
-npm install
-npm run check   # compile + validate projects.yaml
-```
-
-CI runs the same check on relevant changes. Fixing validation errors before merging keeps the list consistent.
-
-## License
-
-[![CC BY-SA](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by-sa.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
+The world of algorithmic trading keeps evolving. Look into "MCP" or Model Context Protocols if you want to connect your trading logic to AI models. Check the rankings provided in the "quantopian-style" section to see how other users perform. This repository provides a map. You choose where to go.
